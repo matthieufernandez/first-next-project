@@ -7,3 +7,10 @@ export default function Card() {
 
   return <h1>Your card is {id}</h1>;
 }
+import React from 'react'
+
+export default function card() {
+  return (
+    <div>hello</div>
+  )
+}
